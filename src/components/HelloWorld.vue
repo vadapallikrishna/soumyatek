@@ -3,6 +3,7 @@
     <div class="main-info">
       <h1>Hello World from Soumya Technologies</h1>
       <h1>WhatsApp at +918374265403</h1>
+      <h3>Or Submit request through form <a href="https://forms.gle/vN7KgTF262BSTgYAA">link</a></h3>
     </div>
     <div class="services">
       <h3>Basic Services</h3>
