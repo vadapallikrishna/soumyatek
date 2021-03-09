@@ -1,7 +1,9 @@
 <template>
   <div class="hello">
-    <h1>Hello World from Soumya Technologies</h1>
-    <h1>WhatsApp at +918374265403</h1>
+    <div class="main-info">
+      <h1>Hello World from Soumya Technologies</h1>
+      <h1>WhatsApp at +918374265403</h1>
+    </div>
     <div class="services">
       <h3>Basic Services</h3>
       <div class="inline">
@@ -40,7 +42,8 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-  .inline {
-    display: inline-flex;
+  .main-info {
+    background: lightblue;
+    height: 300px;
   }
 </style>
