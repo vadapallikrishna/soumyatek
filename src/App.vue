@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <router-view/>
+      <p> &copy; Soumya Technologies </p>
   </div>
+
 </template>
 
 <style>

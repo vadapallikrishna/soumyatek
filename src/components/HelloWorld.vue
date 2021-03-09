@@ -51,6 +51,12 @@ export default {
   .services {
     background: navy;
     color: white;
+    padding-top:20px;
+    padding-bottom:20px;
+  }
+
+  .services > h3 {
+    margin: 0px;
   }
 
   .inline {
