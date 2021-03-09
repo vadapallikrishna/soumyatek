@@ -1,8 +1,9 @@
 <template>
   <div class="hello">
     <div class="main-info">
-      <h1>Hello World from Soumya Technologies</h1>
-      <h1>WhatsApp at +918374265403</h1>
+      <h1>Hello World</h1>
+      <h2>We want help you build and develop websites and also maintain them</h2>
+      <h2>WhatsApp at +918374265403</h2>
       <h3>Or Submit request through form <a href="https://forms.gle/vN7KgTF262BSTgYAA">link</a></h3>
     </div>
     <div class="services">
