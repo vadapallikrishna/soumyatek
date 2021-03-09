@@ -45,5 +45,23 @@ export default {
   .main-info {
     background: lightblue;
     height: 300px;
+    padding: 10px;
+  }
+
+  .services {
+    background: navy;
+    color: white;
+  }
+
+  .inline {
+    display: inline-flex;
+  }
+
+  .inline > * {
+    border: 1px solid lightgrey;
+    padding: 10px;
+    margin: 10px;
+    background: white;
+    color: black;
   }
 </style>
