@@ -11,8 +11,6 @@
     }();
 </script>
 </div>
-
-
       <p> &copy; Soumya Technologies </p>
   </div>
 
