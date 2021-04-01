@@ -2,7 +2,6 @@
   <div id="app">
    <div class="inline">
     <router-view/>
-    <script src="https://embed.small.chat/T01SYLLBU5BC01TEFRQ1CH.js" async></script>
       <p> &copy; Soumya Technologies </p>
   </div>
 
