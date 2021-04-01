@@ -1,9 +1,9 @@
 <template>
   <div class="hello">
+    <p>Soumya Technologies</p>
     <div class="main-info">
       <h1>Hello World</h1>
       <h2>We want help you build and develop websites and also maintain them</h2>
-      <h3>Or Submit request through form <a href="https://forms.gle/vN7KgTF262BSTgYAA">link</a></h3>
     </div>
     </div>
 </template>
@@ -18,8 +18,10 @@ export default {
 <style scoped>
   .main-info {
     background: url("../assets/background.jpeg");
-    height: 300px;
+    background-size: cover;
+    height: 500px;
     padding: 10px;
+    color: white;
   }
 
   .services {
