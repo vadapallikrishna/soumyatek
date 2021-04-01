@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <p>Soumya Technologies</p>
+    <p class="titlebar">Soumya Technologies</p>
     <div class="main-info">
       <h1>Hello World</h1>
       <h2>We want help you build and develop websites and also maintain them</h2>
@@ -21,29 +21,11 @@ export default {
     background-size: cover;
     height: 500px;
     padding: 10px;
-    color: white;
-  }
-
-  .services {
-    background: navy;
-    color: white;
-    padding-top:20px;
-    padding-bottom:20px;
-  }
-
-  .services > h3 {
-    margin: 0px;
-  }
-
-  .inline {
-    display: inline-flex;
-  }
-
-  .inline > * {
-    border: 1px solid lightgrey;
-    padding: 10px;
-    margin: 10px;
-    background: white;
-    color: black;
-  }
+    padding-top: 20px;
+   }
+   .titlebar {
+     background: black;
+     padding: 10px;
+     color: white;
+   }
 </style>
